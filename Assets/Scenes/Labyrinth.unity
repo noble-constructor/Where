@@ -150,8 +150,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00deb03a083e780418b07832bf552df4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vertical: 50
-  horizontal: 50
+  vertical: 40
+  horizontal: 80
   cube: {fileID: 2141419430373024782, guid: 227d5a13ac0e6424e877e7500ffcd4bf, type: 3}
   miner: {fileID: 6331559775576182042, guid: 73ac19832f3ddee42a04678959d69e54, type: 3}
 --- !u!4 &432803347
